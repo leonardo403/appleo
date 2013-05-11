@@ -1,4 +1,4 @@
-# Firefox OS Boilerplate App
+# Appleo
 
 This is a demo app for Firefox OS, loosely based on [fxosstub](https://github.com/Jaxo/fxosstub), meant to act as a simple boilerplate for getting started with apps for Firefox OS.
 
