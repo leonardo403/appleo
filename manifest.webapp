@@ -11,7 +11,7 @@
         "128": "/Firefox-OS-Boilerplate-App/images/logo128.png"
     },
     "developer": {
-        "name": "Robert Nyman",
+        "name": "Leoanrdo Lima",
         "url": "http://limawebdev.github.io/site"
     },
     "installs_allowed_from": ["*"],
